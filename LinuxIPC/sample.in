@@ -1,0 +1,22 @@
+4
+3
+20
+5
+200
+car_no_1
+w cpdd 1 1
+r 4 5 1
+end.
+car_no_2
+w cpdd 1 2
+r 1 7 2
+end.
+car_no_3
+r 1 1 3
+w cpdd 1 3
+end.
+car_no_4
+w cp 1 4
+w dd 1 4
+end.
+
